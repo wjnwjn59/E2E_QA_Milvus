@@ -1,0 +1,7 @@
+__pycache__
+__MACOSX
+.DS_Store
+
+db
+dataset/squad2.0
+volumes
